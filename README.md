@@ -15,6 +15,8 @@ Van Life is a group class project we built together. It is a single-page app web
 
 You are welcome to go through the repo files to have an insight on how much skills we covered. It was really enlightening.
 
+### Link to deployed active site of the project: https://van-life-b0aaec.netlify.app/
+
 ## Authors
 ### Abraham Onyeka Kanime
 ### Scrimba
